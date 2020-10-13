@@ -34,6 +34,8 @@ h1,
   margin: auto;
 
   transition: background 200ms;
+  
+   animation-delay: 250ms;
 }
 
 .visit a:hover {
@@ -56,6 +58,3 @@ main h1 {
   animation-delay: 200ms;
 }
 
-.visit a {
-  animation-delay: 250ms;
-}
